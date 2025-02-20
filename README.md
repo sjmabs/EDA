@@ -41,7 +41,7 @@ The following steps were taken to ensure a thorough and professional workflow.
 
 - **Overall Trends:** Line charts showing house price growth over time for property types and First-Time buyers.
 - **Regional Variations:** Bar charts comparing prices across different UK regions/countries.
-- **Price Distribution:** Histograms, boxplots, and violin plots to visualise variations in property prices.
+- **Price Distribution:** Histograms, boxplots, and violin plots to visualise variations in property prices for type of property.
 - **Economic Impact:** Correlation between inflation, interest rates, and house prices.
 
 ### 4. Insights & Conclusions **TO DO
